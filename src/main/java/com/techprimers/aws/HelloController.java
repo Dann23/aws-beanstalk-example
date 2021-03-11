@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "Hello easy boss class on wednesday 2021 march";
+        return "Let's go get it";
     }
 }
